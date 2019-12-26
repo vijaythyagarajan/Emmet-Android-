@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816264347222",
+    "firebase_url": "https://emmet-50285.firebaseio.com",
+    "project_id": "emmet-50285",
+    "storage_bucket": "emmet-50285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816264347222:android:36f5bb5da62b625fe9c5f7",
+        "android_client_info": {
+          "package_name": "com.example.emmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816264347222-gj2mk5sngeufi515cmqdmt35bosaabg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emmet",
+            "certificate_hash": "84999dc7951ad7839aecc67ea50556be61aec017"
+          }
+        },
+        {
+          "client_id": "816264347222-s2mh229vh1ltkmg6so3uc0ilv1be7frr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKtdaHw0VQRunHfPMPJxMIX_ld5i5a0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816264347222-s2mh229vh1ltkmg6so3uc0ilv1be7frr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
